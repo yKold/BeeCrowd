@@ -1,0 +1,15 @@
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\bin\Debug\net8.0\020.exe
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\bin\Debug\net8.0\020.deps.json
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\bin\Debug\net8.0\020.runtimeconfig.json
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\bin\Debug\net8.0\020.dll
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\bin\Debug\net8.0\020.pdb
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\obj\Debug\net8.0\020.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\obj\Debug\net8.0\020.AssemblyInfoInputs.cache
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\obj\Debug\net8.0\020.AssemblyInfo.cs
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\obj\Debug\net8.0\020.csproj.CoreCompileInputs.cache
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\obj\Debug\net8.0\020.sourcelink.json
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\obj\Debug\net8.0\020.dll
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\obj\Debug\net8.0\refint\020.dll
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\obj\Debug\net8.0\020.pdb
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\obj\Debug\net8.0\020.genruntimeconfig.cache
+c:\Users\Gabriel yKold\Documents\GitHub\BeeCrowd\020\obj\Debug\net8.0\ref\020.dll
