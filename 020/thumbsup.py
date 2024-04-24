@@ -1,2 +1,1 @@
-print("Vai se foder Anaaaaaaaaaaaaaaaaaaaaaaaaaaa Rock and Rolll")
-teste
+print("Vai tomar no cu framengo")
